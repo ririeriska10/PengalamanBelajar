@@ -35,3 +35,4 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
   * Semangat
   * Jangan Bosan Jadi Orang Baik
   * Jangan Pernah Dendam meskipun orang itu nyakitin hati kamu dalem banget
+  * Inget Dunia itu adil setelah kamu di dilukai kamu akan menemukan penyembuhnya
