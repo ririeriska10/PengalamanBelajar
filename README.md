@@ -7,10 +7,9 @@ Repository Ini Berisi Pengalaman Belajar di Dicoding
 
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
 
-  * Belajar tentang apa itu Java dan alasan menggunakannya.
-
   * Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
-
+  
+  * Belajar tentang apa itu Java dan alasan menggunakannya.
 
 **15 Juni 2021**  
 
@@ -33,3 +32,4 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
   * Berlatih dengan membuat program untuk menghitung suhu air, vokal konsonan, dan bangun datar. 
 
   * Mengerjakan ujian akhir untuk menilai kemahiran diri.
+  * Semangat
