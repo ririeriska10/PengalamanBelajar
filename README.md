@@ -34,3 +34,4 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
   * Mengerjakan ujian akhir untuk menilai kemahiran diri.
   * Semangat
   * Jangan Bosan Jadi Orang Baik
+  * Jangan Pernah Dendam meskipun orang itu nyakitin hati kamu dalem banget
